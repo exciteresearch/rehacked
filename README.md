@@ -1,2 +1,2 @@
 # rehacked
-A set of services to continue hackathon projects after the competition is over.
+A set of online and offline services to continue community hackathon projects after the competition is over.
